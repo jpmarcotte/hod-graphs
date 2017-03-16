@@ -1,19 +1,77 @@
-Blue Bonobos (U-M);#ffcf6;#02a54
-Evel Medivhel (IU);#9900;#eeedeb
-RMU Eagles (RMU);#7ae32;#a99d73
-First Pick Nova (UW);#b711;#e7d9c1
+/* Group A */
 Team Ignis (UIUC);#131f33;#fa630
-Goose Tattoo (UW);#000;#fcd450
-Golden Gaels (QU);#9d1939;#eebd31
-Varsity Blues (UofT);#0204e;#ffffff
-Team GG  (UMN);#ffcc33;#7a019
+HecarimJfromUTA(LSU);#582c83;#ffc72c
+Bearly Bronze (CU);#b31b1b;#ffffff
+Golden Mishas (CAL);#41e42;#ffc72c
+Blue Bonobos (U-M);#ffcf6;#02a54
+Team Maroon (TAMU);#651d32;#ffffff
+Worcester Polybomb (WPI);#ac2b37;#a9b0b7
+SFSU (SFSU);#231161;#c9970
+Storm Wolves (SBU);#9900;#000
+8 Clap (UCLA);#3284bf;#ffe80
 Proceed to Checkout (UWPlatt);#00ff;#ff5e0
-Ridgebacks (UOIT);#077c8;#03c71
-Scratch em (UK);#033a0;#ffffff
-Third String (OSU);#bb00;#666666
-Rolla Wrist (MUS&T);#78be20;#ffffff
+Gator Storm (UF);#fa4616;#021a5
+Temple Owls (TU);#99033;#fecb0
+Raynor's Raiders (BC);#03d79;#a7a9ac
 The Neighborhood (UCB);#cfb87c;#000
+Purplol Tanks (USM);#000;#ffab0
+
+/* Group B */
+Tricky Turtles (UCONN);#0e2f;#ffffff
+Triton Heroes (UCSD);#182b49;#c69214
+Goose Tattoo (UW);#000;#fcd450
+Ad Finem (TTU);#cc00;#000
+Rams (VCU);#000;#f8b80
+Dank Squad (OSU);#c3450;#ffffff
+Golden Gaels (QU);#9d1939;#eebd31
+Nerdbirds (UTSA);#dc445;#c2340
+First Pick Nova (UW);#b711;#e7d9c1
+Tar Heeroes (UNCCH);#7bafd4;#ffffff
+Grease Trucks (RU);#cc033;#5f6a72
+CSULB JOSAC (CSULB);#ffac2a;#000
+Scratch em (UK);#033a0;#ffffff
+UNT Eagles (UNT);#0853e;#ffffff
+Kairos (AC);#05195;#ffffff
+WoodLeague (CSUF);#04473;#f17e0
+
+/* Group C */
+UTA HOTD (UTA);#f58025;#064b1
+Rouge et Au (Laval);#ed1c24;#ffcb5
+Pomona Ponies (CPP);#1e4d2b;#c693a
+Varsity Blues (UofT);#0204e;#ffffff
+UNCC (UNCC);#46a38;#8a745a
+Bear-on-a-Cat (BC);#011bb;#ffffff
+USC  (USC);#9d2235;#ffc72c
+Third String (OSU);#bb00;#666666
+Crimson Gaming (UTAH);#cc00;#000
+Team GG  (UMN);#ffcc33;#7a019
+Roll Safe (UTD);#c75b12;#08542
+Core Curriculum (CU);#c4d8e2;#ffffff
+UBCEA Premier (UBC);#02145;#ffffff
+Rolla Wrist (MUS&T);#78be20;#ffffff
+Tribal Toucans (UM);#f47321;#05030
+Cincinnati Zen Soc. (TUFTS);#3e8ede;#ffffff
+
+/* Group D */
+Carrying Mistax (UCI);#064a4;#ffd20
+Evel Medivhel (IU);#9900;#eeedeb
+Bill's Boys (UTK);#ff820;#ffffff
+Ulaval Fan Club (UQTR);#06634;#ca9e1
+#1 In Innovation (ASU);#99033;#ffb310
+RMU Eagles (RMU);#7ae32;#a99d73
+The Ephemeral Dream (UH);#c8102e;#0b388
+Quake 'n Bake (UP);#9900;#11f5b
+UGA Esports (UGA);#bac2f;#000
+UMD Terps (UMD);#c8102e;#ffcd0
+Salty Spartans (SJSU);#055a2;#e5a823
+Ridgebacks (UOIT);#077c8;#03c71
+FSU Crab Legs (FSU);#782f40;#ceb888
+Black Lotus (UdM);#047b6;#000
+Deckard Pains (UVU);#67823a;#000
 Carleton Ravens (CU);#000;#ce1126
+
+
+/* Didn't make it */
 Bad Boyz (UWO);#582c83;#807f83
 Blast (UW);#000;#fcd450
 Murkt (UO);#8f01a;#80746c
@@ -70,28 +128,12 @@ AC Heroes (AC);#0502f;#ffffff
 Iron Clan (UCCS);#000;#cfb87c
 JamesApp (NU);#4e2a84;#ffffff
 Atomic State (ASU);#50b948;#ffffff
-Bill's Boys (UTK);#ff820;#ffffff
-UTA HOTD (UTA);#f58025;#064b1
-UGA Esports (UGA);#bac2f;#000
-HecarimJfromUTA(LSU);#582c83;#ffc72c
-UNCC (UNCC);#46a38;#8a745a
-Ad Finem (TTU);#cc00;#000
-Tar Heeroes (UNCCH);#7bafd4;#ffffff
-Roll Safe (UTD);#c75b12;#08542
 Noice and Moist (TTU);#cc00;#000
-Team Maroon (TAMU);#651d32;#ffffff
-The Ephemeral Dream (UH);#c8102e;#0b388
-Gator Storm (UF);#fa4616;#021a5
 Team Golden Panthers (FIU);#81e3f;#b6862c
-FSU Crab Legs (FSU);#782f40;#ceb888
-Nerdbirds (UTSA);#dc445;#c2340
-UNT Eagles (UNT);#0853e;#ffffff
-Tribal Toucans (UM);#f47321;#05030
 Die for Vision (ERAU);#03594;#84754e
 Totally Talons (KSU);#000;#ffc72c
 10-89 (FSU);#eb4b1;#ffffff
 No Tiers Only Dreams (USC);#730a;#000
-Purplol Tanks (USM);#000;#ffab0
 Guildhalla (SMU);#c8102e;#033a0
 Bufu's Babes (ARK);#9d2235;#ffffff
 300 Hundred MBs (ECU);#592a8a;#fec923
@@ -115,29 +157,14 @@ SMUrky (SMU);#c8102e;#033a0
 RavenLords (SHSU);#fe500;#ffffff
 Ramblin' Rekt (GT);#c59353;#ffffff
 Bulls Deep (USF);#06747;#cfc493
-Tricky Turtles (UCONN);#0e2f;#ffffff
-Rouge et Au (Laval);#ed1c24;#ffcb5
-Rams (VCU);#000;#f8b80
-Bear-on-a-Cat (BC);#011bb;#ffffff
-Bearly Bronze (CU);#b31b1b;#ffffff
 Tigers (RIT);#513127;#f36e21
-Worcester Polybomb (WPI);#ac2b37;#a9b0b7
-Quake 'n Bake (UP);#9900;#11f5b
-Storm Wolves (SBU);#9900;#000
-UMD Terps (UMD);#c8102e;#ffcd0
-Grease Trucks (RU);#cc033;#5f6a72
 Hotshot Huskies (UCONN);#0e2f;#ffffff
 The Button Mashers (JHU);#1f376a;#ffffff
 RedMen (MU);#da291c;#ffffff
-Core Curriculum (CU);#c4d8e2;#ffffff
-Temple Owls (TU);#99033;#fecb0
 Liberty Flames (LU);#a254e;#af00
-Black Lotus (UdM);#047b6;#000
 Frozen Ember (GMU);#06633;#ffcc33
 Meow Meowers (PSU);#03087;#ffffff
-Kairos (AC);#05195;#ffffff
 Brick City Gamers (RIT);#513127;#f36e21
-Cincinnati Zen Soc. (TUFTS);#3e8ede;#ffffff
 UMBC Retrievers (UMBC);#000;#ffc2e
 UB Storm Bulls (UB);#05bbb;#ffffff
 Murky Main (VT);#861f41;#e87722
@@ -145,7 +172,6 @@ UMBC Meme Dream Team (UMBC);#000;#ffc2e
 UMass Minutemen (UMA);#881c1c;#ffffff
 Wolfienet pls (SBU);#9900;#000
 Mountain Hawks (LU);#653819;#b9975b
-Ulaval Fan Club (UQTR);#06634;#ca9e1
 Head of Rooster (PSU);#03087;#ffffff
 Thief Six (BU);#cc00;#ffffff
 Hokie Hi (VT);#861f41;#e87722
@@ -167,31 +193,15 @@ Pitt (PITT);#1c2957;#cdb87d
 UR Gaming (UR);#ffdd0;#0467f
 Vate Nation (WPI);#ac2b37;#a9b0b7
 VCCS (VCCS);#173362;#661c20
-Crimson Gaming (UTAH);#cc00;#000
-#1 In Innovation (ASU);#99033;#ffb310
-8 Clap (UCLA);#3284bf;#ffe80
-Dank Squad (OSU);#c3450;#ffffff
-Salty Spartans (SJSU);#055a2;#e5a823
-USC  (USC);#9d2235;#ffc72c
-Pomona Ponies (CPP);#1e4d2b;#c693a
-Golden Mishas (CAL);#41e42;#ffc72c
 Barbecue Scholars (UTAH);#cc00;#000
 UCSaddleback (SCC);#b3838;#fdbe57
 Justin Fan Club (UCR);#2d6cc0;#f1ab0
-CSULB JOSAC (CSULB);#ffac2a;#000
 Gaucho Gaming (UCSB);#0468b;#ffce34
-UBCEA Premier (UBC);#02145;#ffffff
-Carrying Mistax (UCI);#064a4;#ffd20
-Raynor's Raiders (BC);#03d79;#a7a9ac
 The Lost Vandals (UIDAHO);#b18e5f;#9f9d9d
-SFSU (SFSU);#231161;#c9970
 Code: Crimson (WSU);#99033;#666666
 SLOths (CPSU);#35642;#b4a76c
 Huskie Doges (UW);#4b2e83;#e8e3d3
-Triton Heroes (UCSD);#182b49;#c69214
 The Dualists* (MRU);#07aa5;#03049
-Deckard Pains (UVU);#67823a;#000
-WoodLeague (CSUF);#04473;#f17e0
 Triple B (WSU);#492365;#575047
 Digipen Dragons (DIT);#9910;#ffffff
 Merage Nights (UCI);#064a4;#ffd20
